@@ -1,0 +1,9 @@
+{
+  "python": "3.12.14",
+  "numpy": "2.5.4",
+  "pandas": "2.3.3",
+  "scipy": "1.18.1",
+  "data_sha256": "915bce00295ac470f6bd970a4032730a170a080642a5da53ab0bcb0545156f19",
+  "seed": 42,
+  "repeats": 1000
+}

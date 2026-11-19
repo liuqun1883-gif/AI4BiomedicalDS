@@ -1,0 +1,14 @@
+{
+  "task": "72-sample leukemia Markdown worksheet",
+  "predictions": [
+    "Separation in two dimensions is not sufficient evidence of causality or generalization.",
+    "Scaling may change PCA directions and explained variance.",
+    "UMAP neighborhoods and geometry may change with hyperparameters and seeds.",
+    "PCA(10) may improve or worsen 1NN; the direction is not presumed."
+  ],
+  "fit_scope_descriptive": 72,
+  "fit_scope_prediction": "original train only; each training fold",
+  "seed": 42,
+  "no_test_scoring": true,
+  "no_label_feature_selection": true
+}

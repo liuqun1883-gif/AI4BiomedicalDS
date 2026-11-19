@@ -1,0 +1,128 @@
+{
+  "shape": [
+    72,
+    7129
+  ],
+  "classes": {
+    "ALL": 47,
+    "AML": 25
+  },
+  "train_classes": {
+    "ALL": 27,
+    "AML": 11
+  },
+  "input_sha256": "915bce00295ac470f6bd970a4032730a170a080642a5da53ab0bcb0545156f19",
+  "negative_count": 147174,
+  "zero_count": 1615,
+  "min": -28400.0,
+  "max": 71369.0,
+  "max_abs_z_mean": 5.982868521591122e-16,
+  "max_abs_z_sd_error": 3.3306690738754696e-16,
+  "pca_evr": [
+    0.14921586325599706,
+    0.09446172774145294
+  ],
+  "pca_sum2": 0.24367759099745,
+  "raw_evr": [
+    0.17427768352271056,
+    0.10338642935384662
+  ],
+  "raw_sum2": 0.2776641128765572,
+  "k90_standardized": 51,
+  "k90_centered": 34,
+  "numerical_rank": 71,
+  "pca_last_evr": 2.9427543260292236e-32,
+  "mse2_standardized": 0.7563224090025501,
+  "expected_mse2": 0.75632240900255,
+  "G001_score": 27.105206926701428,
+  "G001_top5_sum": 0.13506751841319242,
+  "G001_other_sum": 26.970139408288233,
+  "neighbor_summary": [
+    {
+      "representation": "high_dim",
+      "high_dim_retention": 1.0,
+      "baseline_overlap": 0.41111111111111115
+    },
+    {
+      "representation": "pca2",
+      "high_dim_retention": 0.3138888888888889,
+      "baseline_overlap": 0.32222222222222224
+    },
+    {
+      "representation": "baseline",
+      "high_dim_retention": 0.41111111111111115,
+      "baseline_overlap": 1.0
+    },
+    {
+      "representation": "neighbors5",
+      "high_dim_retention": 0.4555555555555556,
+      "baseline_overlap": 0.5527777777777778
+    },
+    {
+      "representation": "min_dist05",
+      "high_dim_retention": 0.39999999999999997,
+      "baseline_overlap": 0.6416666666666667
+    },
+    {
+      "representation": "seed7",
+      "high_dim_retention": 0.40555555555555556,
+      "baseline_overlap": 0.6027777777777777
+    }
+  ],
+  "cv": [
+    {
+      "pipeline": "Scaled 1NN",
+      "fold": 1,
+      "n_train": 25,
+      "n_valid": 13,
+      "balanced_accuracy": 0.8194444444444444
+    },
+    {
+      "pipeline": "Scaled PCA10 1NN",
+      "fold": 1,
+      "n_train": 25,
+      "n_valid": 13,
+      "balanced_accuracy": 0.6944444444444444
+    },
+    {
+      "pipeline": "Scaled 1NN",
+      "fold": 2,
+      "n_train": 25,
+      "n_valid": 13,
+      "balanced_accuracy": 0.875
+    },
+    {
+      "pipeline": "Scaled PCA10 1NN",
+      "fold": 2,
+      "n_train": 25,
+      "n_valid": 13,
+      "balanced_accuracy": 0.7638888888888888
+    },
+    {
+      "pipeline": "Scaled 1NN",
+      "fold": 3,
+      "n_train": 26,
+      "n_valid": 12,
+      "balanced_accuracy": 0.8333333333333333
+    },
+    {
+      "pipeline": "Scaled PCA10 1NN",
+      "fold": 3,
+      "n_train": 26,
+      "n_valid": 12,
+      "balanced_accuracy": 0.8333333333333333
+    }
+  ],
+  "versions": {
+    "numpy": "2.3.5",
+    "pandas": "2.3.3",
+    "scipy": "1.17.1",
+    "scikit-learn": "1.8.0",
+    "umap-learn": "0.5.12",
+    "numba": "0.68.0",
+    "llvmlite": "0.50.0",
+    "matplotlib": "3.10.8",
+    "threadpoolctl": "3.7.0"
+  },
+  "python": "3.12.14"
+}

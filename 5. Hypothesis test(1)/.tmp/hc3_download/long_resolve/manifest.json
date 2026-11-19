@@ -1,0 +1,52 @@
+{
+  "version": 2,
+  "generated_at": "2026-11-05T07:47:14.254Z",
+  "request": {
+    "topic": "",
+    "title": "",
+    "dois": [
+      "10.1080/00031305.2000.10474549"
+    ],
+    "pdf_url": "",
+    "si_requested": false,
+    "language_override": "",
+    "route_override": "open_access",
+    "source_url": "",
+    "api_fallback_web": null,
+    "api_fallback_web_for": [],
+    "no_api_fallback_web_for": []
+  },
+  "summary": {
+    "total": 1,
+    "downloaded": 0,
+    "seconds": 2.3
+  },
+  "results": [
+    {
+      "doi": "10.1080/00031305.2000.10474549",
+      "title": "Using Heteroscedasticity Consistent Standard Errors in the Linear Regression Model",
+      "language": "en",
+      "publisher": "Informa UK Limited",
+      "route": "open_access",
+      "route_reason": "explicit_override",
+      "si_requested": false,
+      "status": "oa_not_found",
+      "provider": "open_access",
+      "oaAssessment": "unknown",
+      "oaChecks": {
+        "pmc": {
+          "checked": true,
+          "pmcid": "",
+          "error": ""
+        },
+        "unpaywall": {
+          "checked": false,
+          "error": "",
+          "is_oa": null
+        },
+        "crossref_license": ""
+      },
+      "oaAttempts": []
+    }
+  ]
+}

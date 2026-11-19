@@ -1,0 +1,38 @@
+{
+  "version": 2,
+  "generated_at": "2026-11-05T07:44:57.001Z",
+  "request": {
+    "topic": "",
+    "title": "cameron HC3 reference",
+    "dois": [],
+    "pdf_url": "https://cameron.econ.ucdavis.edu/research/Cameron_Miller_JHR_2015_February.pdf",
+    "si_requested": false,
+    "language_override": "",
+    "route_override": "",
+    "source_url": "",
+    "api_fallback_web": null,
+    "api_fallback_web_for": [],
+    "no_api_fallback_web_for": []
+  },
+  "summary": {
+    "total": 1,
+    "downloaded": 1,
+    "seconds": 1.9
+  },
+  "results": [
+    {
+      "title": "cameron HC3 reference",
+      "status": "open_access_downloaded",
+      "provider": "direct_url",
+      "accessMode": "open_access",
+      "ok": true,
+      "file": ".tmp\\hc3_download\\cameron\\PDFs\\cameron_HC3_reference.pdf",
+      "bytes": 513747,
+      "sha256": "a2d6ef5622b5597ef2c18dd53d700c6b2ffbadaa4c202af0e21ddc0520072214",
+      "contentType": "application/pdf",
+      "format": "pdf",
+      "source": "https://cameron.econ.ucdavis.edu/research/Cameron_Miller_JHR_2015_February.pdf",
+      "si_requested": false
+    }
+  ]
+}

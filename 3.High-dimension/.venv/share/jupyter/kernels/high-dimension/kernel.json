@@ -1,0 +1,19 @@
+{
+ "argv": [
+  "D:\\\u535a\u58eb38720260158062\\AI\u4f7f\u7528\\AI4BiomedicalDS\\3.High-dimension\\.venv\\Scripts\\python.exe",
+  "-Xfrozen_modules=off",
+  "-m",
+  "ipykernel_launcher",
+  "-f",
+  "{connection_file}"
+ ],
+ "display_name": "Python (High-dimension)",
+ "language": "python",
+ "metadata": {
+  "debugger": true,
+  "supported_encryption": [
+   "curve"
+  ]
+ },
+ "kernel_protocol_version": "5.5"
+}

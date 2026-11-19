@@ -1,0 +1,11 @@
+{
+  "question": "AML minus ALL; two-sided Welch tests",
+  "family": 7129,
+  "alpha": 0.05,
+  "discovery": "train: ALL 27, AML 11",
+  "validation": "test: ALL 20, AML 14",
+  "selection": "BH <= 0.05, then raw p and probe ascending, first 10",
+  "validation_rule": "Bonferroni within locked family <= 0.05 and same direction",
+  "preprocessing": "Original supplied scale; no log, filter or imputation",
+  "recorded_at": "2026-11-10T10:43:41.681712+08:00"
+}

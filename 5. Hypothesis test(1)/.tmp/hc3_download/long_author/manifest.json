@@ -1,0 +1,31 @@
+{
+  "version": 2,
+  "generated_at": "2026-11-05T07:45:43.819Z",
+  "request": {
+    "topic": "",
+    "title": "Long Ervin HC3 application author manuscript",
+    "dois": [],
+    "pdf_url": "https://jslsoc.sitehost.iu.edu/files_research/testing_tests/hccm/99TAS.pdf",
+    "si_requested": false,
+    "language_override": "",
+    "route_override": "",
+    "source_url": "",
+    "api_fallback_web": null,
+    "api_fallback_web_for": [],
+    "no_api_fallback_web_for": []
+  },
+  "summary": {
+    "total": 1,
+    "downloaded": 0,
+    "seconds": 1.2
+  },
+  "results": [
+    {
+      "title": "Long Ervin HC3 application author manuscript",
+      "status": "failed_after_retry",
+      "url": "https://jslsoc.sitehost.iu.edu/files_research/testing_tests/hccm/99TAS.pdf",
+      "err": "TypeError: fetch failed",
+      "si_requested": false
+    }
+  ]
+}

@@ -1,9 +1,0 @@
-ipykernel
-pandas
-numpy
-scipy
-scikit-learn
-matplotlib
-seaborn
-nbclient
-nbformat

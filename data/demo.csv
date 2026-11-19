@@ -1,9 +1,0 @@
-sample_id,age_years,group,systolic_bp_mmHg,glucose_mmol_L
-S01,24,A,112,4.7
-S02,31,B,128,5.2
-S03,45,A,135,5.8
-S04,52,B,142,6.1
-S05,,A,118,4.9
-S06,38,B,125,5.4
-S07,29,A,110,4.5
-S08,61,B,150,6.3

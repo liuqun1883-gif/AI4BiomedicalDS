@@ -1,0 +1,23 @@
+{
+  "pdf_pages": 13,
+  "all_pages_visually_reviewed": true,
+  "missing_glyphs": 0,
+  "input_hash_matches": true,
+  "sample_mapping_complete": true,
+  "cv_recomputed_from_saved_predictions": true,
+  "no_original_test_predictions": true,
+  "all_5nn_exclude_self": true,
+  "figures": [
+    "fig0-workflows",
+    "fig1-pca-umap",
+    "fig2-variance",
+    "fig3-scale-control",
+    "fig4-umap-controls"
+  ],
+  "figure_qa": "Figure PDF collision and glyph checks passed; multi-panel geometry checks passed.",
+  "static_warnings_reviewed": [
+    "PNG and vector PDF/SVG are sufficient for this coursework; TIFF is not requested.",
+    "Scatter plots show all individual samples, not means. CV folds are fully reported in a table; no confidence band is claimed."
+  ],
+  "scientific_boundary": "Descriptive low-dimensional structure is not a mechanism or independent predictive validation."
+}
